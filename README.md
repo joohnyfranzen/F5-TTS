@@ -140,7 +140,7 @@ This README describes how to install dependencies, configure the class, and run 
 pip install f5-tts
 pip install safetensors
 pip install torch
-pip install --grade ffmpeg-python
+pip install --upgrade ffmpeg-python
 pip install num2words
 ```
 
