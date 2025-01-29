@@ -357,7 +357,7 @@ if __name___ == "__main__":
 3. **Text File**: Make sure each line is properly formatted (no extra blank lines).  
 4. **Delay Setting**: Adjust the `delay` parameter if you need to throttle generation speed.  
 5. **Output Directory**: The class automatically creates directories in the specified `output_audio_file` path if they don't exist.
-6. **Audio is chunked per line, use short reference 5s to 8s** Make lines short if it starts to lose track.
+6. **Audio is chunked per line, use short reference 5s to 9s, for the text, use short text lines** Make lines short if it starts to lose track.
 
 
 ---
