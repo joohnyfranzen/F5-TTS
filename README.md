@@ -12,7 +12,8 @@ tags:
 - tts
 - f5-tts
 - brasil
-- text-to-speech
+datasets:
+- firstpixel/pt-br_char
 ---
 
 # F5-TTS-pt-br:
@@ -20,9 +21,11 @@ tags:
 Contains pre-trained weights for Portuguese BR in F5-TTS. It only speaks portuguese as it is a preliminary test.
 Tokenizer is the same as original F5-TTS from https://huggingface.co/SWivid/F5-TTS.
 
-Trained on +-130hrs 
+Trained on +-130hrs
 128k samples with mostly 5s for 2 days on colab A100 + 2 days with T4, 
 and upgraded to new dataset +-200hrs 30k samples in 2 days with mostly 20s on A100
+Added 3 days on 3500 speakers from, 60k samples audios joined with from 20 to 25s of
+https://commonvoice.mozilla.org/pt
 
 Use lower case, and for numbers use num2words. Sample bellow.
 
