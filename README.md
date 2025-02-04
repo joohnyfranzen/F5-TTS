@@ -81,7 +81,8 @@ O mundo se tornou um paraíso, mas sem os humanos para habitá-lo. As máquinas 
 </br>
 #### ------------------
 
-Mixed datasets commonvoice + librevox + facebook + destiled/syntetic.
+Mixed datasets commonvoice + librevox + facebook.
+Second round with 3500 speakers from common voice Mozilla.
 
 around 2 days ( 200k steps )
 samples : 29881
