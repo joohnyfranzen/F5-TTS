@@ -55,7 +55,7 @@ Antes de executar o código, certifique-se de que o ambiente de desenvolvimento 
    --no-cache-dir --use-deprecated=legacy-resolver
    ```
 
-4. **Baixe um modelo compatível**, como por exemplo:
+4. **Baixe um modelo compatível**. Apenas o arquivo `model_last.safetensors` é necessário para o uso:
    [https://huggingface.co/firstpixel/F5-TTS-pt-br](https://huggingface.co/firstpixel/F5-TTS-pt-br)
 
 ## Como Usar
