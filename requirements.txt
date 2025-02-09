@@ -1,0 +1,7 @@
+pip install wheel
+pip install --no-cache-dir --use-deprecated=legacy-resolver f5-tts
+pip install --no-cache-dir --use-deprecated=legacy-resolver safetensors
+pip install --no-cache-dir --use-deprecated=legacy-resolver torch
+pip install --no-cache-dir --use-deprecated=legacy-resolver --upgrade ffmpeg-python
+pip install --no-cache-dir --use-deprecated=legacy-resolver num2words
+pip install --no-cache-dir jieba transformers_stream_generator
