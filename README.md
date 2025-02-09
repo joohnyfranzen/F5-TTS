@@ -35,6 +35,7 @@ Antes de executar o código, certifique-se de que o ambiente de desenvolvimento 
      ```bash
      venv\Scripts\activate
      ```
+     **Observação**: O código foi testado em um Ubuntu 22.04
 
 3. **Instale as dependências**:
    No terminal, execute os seguintes comandos para instalar as dependências necessárias:
